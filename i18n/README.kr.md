@@ -4,7 +4,9 @@
 
 ## 시작하기
 
-파일 받기: [![Latest Release](https://img.shields.io/github/v/release/ApexResearchCentre/ArcMinecraft)](https://github.com/ApexResearchCentre/ArcMinecraft/releases/latest)에서 최신 안정 버전을 받으세요.  
+[![Latest Release](https://img.shields.io/github/v/release/ApexResearchCentre/ArcMinecraft)](https://github.com/ApexResearchCentre/ArcMinecraft/releases/latest)
+
+파일 받기: Releases 페이지에서 최신 안정 버전을 받으세요.
 설치 및 설정: 호환되는 런처에서 모드팩 파일을 가져오세요. 현재 XMCL과 Modrinth App을 공식 지원합니다.
 
 클라이언트 안정성과 서버 호환성을 위해 대규모 업데이트 때마다 새로 설치하는 것을 권장합니다.  

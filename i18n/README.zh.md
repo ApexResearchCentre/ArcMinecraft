@@ -3,8 +3,8 @@
 你可在此取得整合包和伺服器相關内容。
 
 ## 開始指南
-
-獲取檔案：請從 [![Latest Release](https://img.shields.io/github/v/release/ApexResearchCentre/ArcMinecraft)](https://github.com/ApexResearchCentre/ArcMinecraft/releases/latest) 獲取最新的穩定版本。
+[![Latest Release](https://img.shields.io/github/v/release/ApexResearchCentre/ArcMinecraft)](https://github.com/ApexResearchCentre/ArcMinecraft/releases/latest)
+獲取檔案：請從 release 獲取最新的穩定版本。
 安裝設定：使用相容的啟動器匯入整合包檔案，我們目前官方支持 XMCL 和 Modrinth App。
 
 為確保客戶端穩定性與伺服器相容性，每次重大更新時均建議進行全新安裝。

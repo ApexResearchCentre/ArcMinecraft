@@ -8,7 +8,9 @@ You can find the modpack and server-related information here.
 
 ## Getting Started
 
-Get the files: Download the latest stable release from [![Latest Release](https://img.shields.io/github/v/release/ApexResearchCentre/ArcMinecraft)](https://github.com/ApexResearchCentre/ArcMinecraft/releases/latest).
+[![Latest Release](https://img.shields.io/github/v/release/ApexResearchCentre/ArcMinecraft)](https://github.com/ApexResearchCentre/ArcMinecraft/releases/latest)
+
+Get the files: Download the latest stable release from the Releases page.
 
 Install and configure: Import the modpack using a compatible launcher. XMCL and Modrinth App are currently officially supported.
 

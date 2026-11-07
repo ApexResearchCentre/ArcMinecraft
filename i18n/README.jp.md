@@ -4,7 +4,9 @@
 
 ## はじめに
 
-ファイルの入手：[![Latest Release](https://img.shields.io/github/v/release/ApexResearchCentre/ArcMinecraft)](https://github.com/ApexResearchCentre/ArcMinecraft/releases/latest) から最新の安定版をダウンロードしてください。  
+[![Latest Release](https://img.shields.io/github/v/release/ApexResearchCentre/ArcMinecraft)](https://github.com/ApexResearchCentre/ArcMinecraft/releases/latest)
+
+ファイルの入手：Releases ページから最新の安定版をダウンロードしてください。
 インストールと設定：対応ランチャーでModパックをインポートしてください。現在、XMCL と Modrinth App を公式にサポートしています。
 
 クライアントの安定性とサーバーとの互換性を保つため、大型アップデートの際は毎回、新規インストールをおすすめします。  
