@@ -4,6 +4,7 @@
 
 ## 開始指南
 [![Latest Release](https://img.shields.io/github/v/release/ApexResearchCentre/ArcMinecraft)](https://github.com/ApexResearchCentre/ArcMinecraft/releases/latest)
+
 獲取檔案：請從 release 獲取最新的穩定版本。
 安裝設定：使用相容的啟動器匯入整合包檔案，我們目前官方支持 XMCL 和 Modrinth App。
 
