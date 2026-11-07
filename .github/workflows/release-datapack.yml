@@ -1,5 +1,7 @@
 name: Release Datapacks
 
+run-name: datapack building and releasing
+
 on:
   push:
     tags:
